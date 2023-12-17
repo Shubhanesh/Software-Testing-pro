@@ -1,4 +1,4 @@
-package src;
+package src.dec_16th;
 
 public class Gates_1 {
     public static void main(String[] args) {
