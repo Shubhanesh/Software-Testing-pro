@@ -1,4 +1,4 @@
-package src;
+package src.Dec_10Th;
 
 public class Lab11 {
     public static void main(String[] args) {
