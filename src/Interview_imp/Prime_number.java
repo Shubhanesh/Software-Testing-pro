@@ -6,5 +6,6 @@ public class Prime_number {
 
         // User input= 1to 50
         // logic Prime no ->  number%1 ,number >1 ,0 & 1= not prime number
+        System.out.println(10);
     }
 }
