@@ -19,5 +19,6 @@ public class Asign {
 
 
         System.out.println(Math.cbrt(S+T-R));
+        System.out.println();
     }
 }
